@@ -1,6 +1,6 @@
 # The-Zomato-Dashboard-using-Power-BI
 
-🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
+Welcome to the Zomato Power BI Dashboard Project!
 
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
 
@@ -24,8 +24,8 @@ This dashboard offers a comprehensive analysis of restaurant ratings, sales tren
 ## Dashboard Pages
 
 1. **Overview:** Get an insightful overview of key metrics including ratings, city-wise distribution, total orders, amount spent, and quantity ordered.
-2. **User Dynamics:** Uncover valuable insights into user dynamics with a detailed analysis of gained and lost users.
-3. **City-wise Analysis:** Explore the city-wise analysis showcasing sales trends, ratings distribution, and the most active user bases.
+2. **User Analysis:** Uncover valuable insights into user dynamics with a detailed analysis of gained and lost users.
+3. **City Performance:** Explore the city-wise analysis showcasing sales trends, ratings distribution, and the most active user bases.
 
 ## Insights from the Dashboard
 
